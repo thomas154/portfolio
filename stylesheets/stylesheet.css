@@ -2,6 +2,10 @@
 width: 0px;
 }
 
+.element { overflow: -moz-scrollbars-none; }
+
+.element { -ms-overflow-style: none; }
+
 body,div,padding,input,p,img{
     margin:0;
     padding:0;
@@ -133,7 +137,7 @@ body {
 
 
 #bgImage {
-	background-image: url("http://blesson.herokuapp.com/image/bg3.png");
+	background-image: url("http://blesson.herokuapp.com/image/bg2.png");
 	width: 1048px;
 	height: 537px;
 	border-radius: 0;
