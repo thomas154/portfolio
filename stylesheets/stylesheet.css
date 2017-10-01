@@ -133,7 +133,7 @@ body {
 
 
 #bgImage {
-	background-image: url("/home/blesson/logan1x.github.io/bg3.png");
+	background-image: url("https://blesson.herokuapp.com/image/bg3.png");
 	width: 1048px;
 	height: 537px;
 	border-radius: 0;
