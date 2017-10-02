@@ -121,9 +121,10 @@ body {
 #headerText {
     /* width: 10px; */
     /* height: 10px; */
+    padding: 2px;
     margin: 0 auto;
     /* left: -42%; */
-    bottom: 118%;
+    bottom: 124%;
     position:relative;
     display: block;
     /* font-weight: bolder; */
@@ -142,7 +143,7 @@ body {
 	/* padding: 1px; */
 	/* max-height: 600px; */
 	position: relative;
-	top: -30px;
+	top: -35px;
 }
 
 #screen {
@@ -262,6 +263,7 @@ body {
 }
 
 }
+
 
 
 
