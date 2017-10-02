@@ -136,7 +136,7 @@ body {
 
 #bgImage {
 	background: black;
-	background-image: url("/home/blesson/blesson/image/bg3.png");
+	background-image: url("http://blesson.herokuapp.com/image/bg3.png");
 	/* opacity: 0.9; */
 	width: 100%;
 	background-repeat: no-repeat;
@@ -255,7 +255,7 @@ body {
 }
 
 #bgImage {
-	background-image: url("/home/blesson/blesson/image/bg3.png");
+	background-image: url(""http://blesson.herokuapp.com/image/bg3.png"");
 	width: 100%;
 	/* height: 537px; */
 	border-radius: 0;
