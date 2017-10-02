@@ -259,7 +259,7 @@ body {
 	/* padding: 1px; */
 	/* max-height: 600px; */
 	position: relative;
-	top: -35px;
+	top: -38px;
 }
 
 #headerText {
@@ -272,7 +272,7 @@ body {
     position:relative;
     display: block;
     /* font-weight: bolder; */
-    font-size: 16px;
+    font-size: 14px;
     font-family: -webkit-body;
     text-align: center;
 }
