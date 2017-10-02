@@ -1,6 +1,5 @@
 ::-webkit-scrollbar{
 width: 0px;
-
 }
 
 body,div,padding,input,p,img{
@@ -78,7 +77,6 @@ body {
     height: 30px;
     background-color: #1e2021;
     margin: 0 auto;
-    font-family: monospace;
     padding: auto;
     float: none;
     border-radius: 5px 5px 0px 0px;
@@ -231,8 +229,7 @@ body {
     width: 97vw;
     height: 30px;
     background-color: #1e2021;
-    margin: 0 auto;
-    font-family: monospace;
+    margin: 0 auto;s
     padding: auto;
     float: none;
     border-radius: 5px 5px 0px 0px;
