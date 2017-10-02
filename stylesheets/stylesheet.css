@@ -157,6 +157,8 @@ body {
     border: 1px solid black;
     box-shadow: 0px 5px 10px 0px black;
     max-height: 80vh;
+    /* position: relative; */
+    /* top: -1px; */
 }
 .font {
     color: #fff;
@@ -222,6 +224,8 @@ body {
     opacity: .9;
     border: 1px solid black;
     box-shadow: 0px 5px 10px 0px black;
+    position: relative;
+    top: -1px;
     }
 
 #bar {
@@ -245,6 +249,7 @@ body {
     text-align: center;
 }
 }
+
 
 
 
