@@ -129,7 +129,7 @@ body {
     display: block;
     /* font-weight: bolder; */
     font-size: 16px;
-    font-family: -webkit-body;
+    font-family: monospace;
     text-align: center;
 }
 
@@ -282,6 +282,7 @@ body {
 }
 
 }
+
 
 
 
