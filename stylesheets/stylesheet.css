@@ -277,7 +277,7 @@ body {
     display: block;
     /* font-weight: bolder; */
     font-size: 14px;
-    font-family: -webkit-body;
+    font-family: monospace;
     text-align: center;
 }
 
