@@ -64,7 +64,7 @@ body {
     max-height: 100vh;
 }
 #head {
-    font-family: Tahoma, Geneva, sans-serif;
+    font-family:monospace; 
     color: black;
     margin: auto;
     padding: 8px;
@@ -167,7 +167,7 @@ body {
 }
 .font {
     color: #fff;
-    font-family: Tahoma, Geneva, sans-serif;
+    font-family: monospace;
     font-size: 15px;
     text-align: left;
     position: static;
