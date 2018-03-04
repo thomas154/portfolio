@@ -16,7 +16,8 @@
   There are many people out there like me who likes to live in there terminal.
 
   ### Features
-  - This termplate ;) is minimal, very quick to edit and deploy.  
+  - This termplate ;) is minimal, very quick to edit and deploy.
+  - Responsive.
     
   ### Scrots
 
