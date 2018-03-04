@@ -17,10 +17,10 @@
 
   ### Features
   - This termplate ;) is minimal, very quick to edit and deploy.
-  - Responsive.
+  - Responsive-Design.
   
   ### Demo 
-  <a href="https://blesson.herokuapp.com">click here</a>
+  <a href="https://blesson.herokuapp.com" target="_blank">click here</a>
     
   ### Scrots
 
