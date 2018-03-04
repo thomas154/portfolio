@@ -13,6 +13,6 @@
     
   ### Scrots
 
-  <img src="https://www.github.com/thomas154/portfolio/master/scrots/a.png" width="640">
+  <img src="/scrots/a.png" width="640">
 
-  <img src="https://www.github.com/thomas154/portfolio/master/scrots/b.png" width="640">
+  <img src="/scrots/b.png" width="640">
