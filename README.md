@@ -1,4 +1,19 @@
 
+         
+                   
+               
+                  
+                     
+                
+                           
+                                  
+               
+                           
+                       
+                    
+                            
+                  v1.0.5 
+                                  
   # Termplate
 
   A Man page like terminal Bio template.
@@ -13,6 +28,7 @@
     
   ### Scrots
 
-  <img src="/scrots/a.png" width="640">
+  <img src="/scrots/a.png" width="840">
 
-  <img src="/scrots/b.png" width="640">
+  <img src="/scrots/b.png" width="840">
+                           
