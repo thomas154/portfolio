@@ -20,7 +20,7 @@
   - Responsive-Design.
   
   ### Demo 
-  <a href="https://blesson.herokuapp.com" target="_Blank">click here</a>
+  <a target="_blank" href="https://blesson.herokuapp.com">click here</a>
     
   ### Scrots
 
