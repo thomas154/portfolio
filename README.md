@@ -1,4 +1,4 @@
-  <img src="/scrots/c.png" width="840">
+ <center><img src="/scrots/c.png"></center> 
 # Termplate
 
   A Man page like terminal Bio template.
