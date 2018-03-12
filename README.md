@@ -1,4 +1,4 @@
-<img src="/scrots/d.png" align="center"/>
+<div align="center"><img src="/scrots/d.png" align="center"/></div>
 
 # Termplate
 
