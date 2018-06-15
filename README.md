@@ -38,10 +38,18 @@ $ python3 web.py
 And its now running on localhost:8000
 
 You can easily change and add variables in the **user.yml** file.
-Enjoy your cool terminal interface portofolio
+Enjoy your cool terminal interface portofolio.
+
+---
+<b> Dont want too much dependencies switch to branch named SimpleHtml 
+ then clone the repository, to edit directly the html content.</b>
+
+---
 
 ## Contributors
 
 The following people helped in creating the above content.
 
-![thomas154](./images/thomas154.png  "thomas154" )![abhishtagatya](./images/abhishtagatya.png  "abhishtagatya" )
+![thomas154](./image/thomas154.png  "thomas154" )![abhishtagatya](./image/abhishtagatya.png  "abhishtagatya" )
+
+
