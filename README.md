@@ -39,3 +39,9 @@ And its now running on localhost:8000
 
 You can easily change and add variables in the **user.yml** file.
 Enjoy your cool terminal interface portofolio
+
+## Contributors
+
+The following people helped in creating the above content.
+
+![thomas154](./images/thomas154.png  "thomas154" )![abhishtagatya](./images/abhishtagatya.png  "abhishtagatya" )
