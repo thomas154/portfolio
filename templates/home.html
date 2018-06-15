@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<!--                                                    -->
+<!--                                          -->
+<!--                                                 -->
+<!--                                      -->
+<!--                                            -->
+<!--                                                   -->
+<!--                                        https://github.com/thomas154 -->
+
+	<head>
+	 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 	<title>{{user['title']}}</title>
+		<meta name="description" content="{{user['description']}}">
+		<meta name="keywords" content="name">
+		<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='stylesheet.css')}}">
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+	</head>
+	<body>
+		<div id="head">{{user['name']}}<span class="cursor"></span></div>
+				<div id="bar">
+				    <div id="red">
+				    </div>
+				    <div id="yellow">
+				    </div>
+				    <div id="green">
+				    </div>
+				    <div id="headerText">Terminal</div>
+				<div id="bgImage">
+				<div id="screen">
+					<div id="content">
+						<div id="header">
+						<div class="top">INTRO</div>
+						</div>
+
+						<div class="topic_header">NAME</div>
+						<div class="body_text">{{user['name']}}</div>
+
+						<div class="topic_header">NICK(S)</div>
+						<div class="body_text">{{user['nickname']}}</div>
+
+						<div class="topic_header">DESCRIPTION</div>
+						<div class="body_text">
+							{{user['description']}}
+						</div>
+
+						<div class="topic_header">MORE INFO</div>
+						<div class="body_text">
+						His/her online foot print:
+            {% for social in user['social'] %}
+							<p><a href="{{social['link']}}" target="_blank">{{social['media']}}</a> - {{social['username']}} - {{social['description']}}</p>
+            {% endfor %}
+						</div>
+
+						<div class="topic_header">CONTACT METHODS</div>
+						<div class="body_text">
+              {% for contact in user['contact'] %}
+							  {{contact['method']}} - {{contact['address']}}
+              {% endfor %}
+						</div>
+
+
+						<div class="topic_header">PROJECTS</div>
+						<div class="body_text">
+						Some of the projects he/she has done:
+							<ul>
+                {% for project in user['projects'] %}
+                  <li><a href="{{project['link']}}" target="_blank">{{project['name']}}</a> - {{project['description']}}</li>
+                {% endfor %}
+							</ul>
+						</div>
+
+
+						<div class="topic_header">SEE ALSO</div>
+						<div class="body_text">{{user['additional']}}</div>
+
+						<div class="topic_header">RESUME</div>
+						<div class="body_text"><a href="{{user['resume']}}" target="_blank">View/Download Resume.</a>
+						</div>
+
+						<div class="topic_header">HISTORY</div>
+						<div class="body_text">{{user['history']}}</div>
+
+						<div id="footer">
+						Latest Update - 25/05/2018 V-3.0
+						</div>
+					</div>
+				</div>
+				</div>
+			</div>
+</body>
+</html>
